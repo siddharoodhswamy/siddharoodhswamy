@@ -4,8 +4,7 @@
 
 <br/><br/>
 
-<img src="https://github.com/siddharoodhswamy/siddharoodhswamy/blob/main/Siddu_passportsize.png?raw=true" width="120" alt="Siddharoodh Swamy" />
-
+<img src="./Siddu_passportsize.png" width="120" alt="Siddharoodh Swamy" />
 <br/>
 
 # Siddharoodh Swamy Kamatad
