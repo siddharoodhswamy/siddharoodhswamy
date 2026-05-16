@@ -154,9 +154,6 @@ class SiddharoodhSwamy:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharoodhswamy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=8b949e" width="38%" />
 
 <br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharoodhswamy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=06b6d4&point=a78bfa" width="96%" />
-
 </div>
 
 ---
