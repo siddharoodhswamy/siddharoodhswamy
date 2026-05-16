@@ -138,7 +138,6 @@ class SiddharoodhSwamy:
 |--|---------|-------|-------------|
 | 🔬 | [**orange_hrm**](https://github.com/siddharoodhswamy/orange_hrm) | `Python` `Selenium` `JIRA` | Automated employee CRUD, login & UI validation using Selenium POM with full JIRA defect lifecycle |
 | 🌐 | [**portfolio**](https://github.com/siddharoodhswamy/portfolio) | `HTML` `CSS` | Personal portfolio website showcasing projects, skills & experience |
-| ⚙️ | [**hrm_automation**](https://github.com/siddharoodhswamy/hrm_automation) | `Python` `Selenium` | Automation scripts for end-to-end HR management system testing |
 | 🤖 | **AI Agent · RAG Pipeline** *(2026 — In Progress)* | `LangChain` `FAISS` `FastAPI` `OpenAI` | PDF ingestion → chunking → FAISS vector store → LLM-powered Q&A |
 
 ---
@@ -187,7 +186,7 @@ class SiddharoodhSwamy:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharoodh-swamy-kamatad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharoodh-swamy-kamatad-a428ab213/)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-06b6d4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddukamatad12@gmail.com)
 &nbsp;
