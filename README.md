@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- ANIMATED TYPING BANNER -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=QA+Automation+Engineer+%F0%9F%A7%AA;Software+Test+Engineer+%F0%9F%94%8D;Python+%7C+Selenium+%7C+Postman+%7C+BrowserStack;Building+AI+Agents+%2B+RAG+Pipelines+%F0%9F%A4%96;Open+to+Relocate+Anywhere+in+the+World+%F0%9F%8C%8D" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- PROFILE PHOTO -->
-<img src="https://github.com/siddharoodhswamy/siddharoodhswamy/blob/main/Siddu_passportsize.png?raw=true" width="130px" style="border-radius: 50%;" alt="Siddharoodh Swamy" />
+<img src="https://github.com/siddharoodhswamy/siddharoodhswamy/blob/main/Siddu_passportsize.png?raw=true" width="130" alt="Siddharoodh Swamy" />
 
 <br/><br/>
 
@@ -59,16 +57,16 @@ class SiddharoodhSwamy:
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=818cf8)
 ![Selenium](https://img.shields.io/badge/Selenium_WebDriver-0d1117?style=for-the-badge&logo=selenium&logoColor=43B02A)
-![Pytest](https://img.shields.io/badge/Pytest_·_POM-0d1117?style=for-the-badge&logo=pytest&logoColor=06b6d4)
-![Postman](https://img.shields.io/badge/Postman_·_REST_API-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Pytest](https://img.shields.io/badge/Pytest_%C2%B7_POM-0d1117?style=for-the-badge&logo=pytest&logoColor=06b6d4)
+![Postman](https://img.shields.io/badge/Postman_%C2%B7_REST_API-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-0d1117?style=for-the-badge&logo=browserstack&logoColor=FF9A00)
 
 **🔧 Tools & Process**
 
 ![JIRA](https://img.shields.io/badge/JIRA-0d1117?style=for-the-badge&logo=jira&logoColor=0052CC)
-![Git](https://img.shields.io/badge/Git_·_GitHub-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Git](https://img.shields.io/badge/Git_%C2%B7_GitHub-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/Linux_CLI-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Agile](https://img.shields.io/badge/Agile_·_Scrum-0d1117?style=for-the-badge&logo=scrumalliance&logoColor=6366f1)
+![Agile](https://img.shields.io/badge/Agile_%C2%B7_Scrum-0d1117?style=for-the-badge&logo=scrumalliance&logoColor=6366f1)
 
 **🤖 AI / Emerging · 2026**
 
@@ -83,25 +81,25 @@ class SiddharoodhSwamy:
 
 <table>
 <tr>
-<td width="150px" valign="top"><sub><code>Mar 2024<br>→ Mar 2025</code></sub></td>
+<td width="150" valign="top"><sub><code>Mar 2024 → Mar 2025</code></sub></td>
 <td>
 
 **Bosch Limited · Bengaluru**
 *Software Engineer Trainee — Quality Engineer (GAT)*
 
 ```diff
-+ Reduced manual regression effort by ~40% by automating test suites in Python + Selenium
-+ Designed reusable automation frameworks using Page Object Model (POM) pattern
++ Reduced manual regression effort by ~40% — Python + Selenium automation
++ Reusable frameworks using Page Object Model (POM) pattern
 + REST API validation with Postman — payloads, status codes, auth & error handling
-+ Integrated Python scripts with JIRA REST API for auto defect creation & tracking
++ JIRA REST API integration for auto defect creation & tracking
 + Cross-platform mobile testing on Android & iOS via BrowserStack
-+ Collaborated in Agile/Scrum — sprint planning, standups, retrospectives
++ Agile/Scrum — sprint planning, standups, retrospectives
 ```
 
 </td>
 </tr>
 <tr>
-<td width="150px" valign="top"><sub><code>Apr 2025<br>→ Present</code></sub></td>
+<td width="150" valign="top"><sub><code>Apr 2025 → Present</code></sub></td>
 <td>
 
 **Freelance QA Automation Engineer · Independent**
@@ -162,10 +160,10 @@ class SiddharoodhSwamy:
 
 ## `> certifications`
 
-![Q-Spiders](https://img.shields.io/badge/✦_Software_Testing_%26_Automation-Q--Spiders,_Bengaluru-fbbf24?style=flat-square&labelColor=1c1a09)
-![Udemy](https://img.shields.io/badge/✦_Python_Programming-Udemy-fbbf24?style=flat-square&labelColor=1c1a09)
-![Google](https://img.shields.io/badge/✦_AI_Agents_Intensive-Google_%2F_Kaggle-fbbf24?style=flat-square&labelColor=1c1a09)
-![Outskill](https://img.shields.io/badge/✦_Generative_AI-Outskill-fbbf24?style=flat-square&labelColor=1c1a09)
+![Q-Spiders](https://img.shields.io/badge/%E2%9C%A6_Software_Testing_%26_Automation-Q--Spiders-fbbf24?style=flat-square&labelColor=1c1a09)
+![Udemy](https://img.shields.io/badge/%E2%9C%A6_Python_Programming-Udemy-fbbf24?style=flat-square&labelColor=1c1a09)
+![Google](https://img.shields.io/badge/%E2%9C%A6_AI_Agents_Intensive-Google_%2F_Kaggle-fbbf24?style=flat-square&labelColor=1c1a09)
+![Outskill](https://img.shields.io/badge/%E2%9C%A6_Generative_AI-Outskill-fbbf24?style=flat-square&labelColor=1c1a09)
 
 ---
 
@@ -174,7 +172,9 @@ class SiddharoodhSwamy:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-6366f1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharoodh-swamy-kamatad)
+&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-06b6d4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddukamatad12@gmail.com)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_Repos-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharoodhswamy)
 
 <br/>
